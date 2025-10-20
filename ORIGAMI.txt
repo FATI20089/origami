@@ -1,0 +1,12 @@
+<html>
+<head>
+<title><marquee>Kami kami Origami</title>
+</marquee>
+</head>
+<body bg color=79E4ED text=white>
+<center><h1>Les presentamos <em>Kami Kami Origami</em>, formado por pequeños emprendedores apasionados por
+el arte, en donde puedes encontrar increibles origamis de <u>distintas formas y colores</u>. Le aseguramos la 
+calidad de su producto y personalizamos tus artículos a tu propio estilo. <br>
+</body>
+</html>
+
